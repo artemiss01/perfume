@@ -365,6 +365,11 @@ h6 {
 .info-txt__descript {
   margin-bottom: 1.25rem;
 }
+.box {
+  position: sticky;
+  top: 0;
+}
+
 .header {
   position: absolute;
   top: 0;
