@@ -8546,31 +8546,19 @@
         opacity: 0,
       }),
       ii.from(".info-txt__title", {
-        scrollTrigger: {
-          trigger: ".page__about-us",
-          start: "top 70%",
-          markers: !0,
-        },
+        scrollTrigger: { trigger: ".page__about-us", start: "top 70%" },
         x: 300,
         opacity: 0,
         duration: 0.8,
       }),
       ii.from(".info-txt__caption", {
-        scrollTrigger: {
-          trigger: ".page__about-us",
-          start: "top 70%",
-          markers: !0,
-        },
+        scrollTrigger: { trigger: ".page__about-us", start: "top 70%" },
         x: 300,
         opacity: 0,
         duration: 1.1,
       }),
       ii.from(".info-txt__descript", {
-        scrollTrigger: {
-          trigger: ".page__about-us",
-          start: "top 70%",
-          markers: !0,
-        },
+        scrollTrigger: { trigger: ".page__about-us", start: "top 70%" },
         x: 300,
         opacity: 0,
         duration: 1.3,
